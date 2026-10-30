@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hello, I'm hypeglitch 👋
 
-<!--
-**hypeglitch/hypeglitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Writing code, breaking things, and learning something new every day. Based in Indonesia.
 
-Here are some ideas to get you started:
+<details>
+<summary><b>Quick intro</b></summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 Open to collaborating on open-source projects
+- 📫 How to reach me: **@hypeglitch** on GitHub
+- 🎯 This year's goal: ship something every month
+- 🌍 Based in Indonesia
+
+<p align="center">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hypeglitch&layout=compact&langs_count=8&hide_border=true&theme=dark" alt="Top languages" />
+  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=hypeglitch&hide_border=true&theme=rogue" alt="Contribution graph" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-2dd4bf?style=for-the-badge&logoColor=white" alt="Go" /> <img src="https://img.shields.io/badge/Python-2dd4bf?style=for-the-badge&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-2dd4bf?style=for-the-badge&logoColor=white" alt="JavaScript" />
+</p>
+
+</details>
+
+<sub>Still learning, still shipping.</sub>
